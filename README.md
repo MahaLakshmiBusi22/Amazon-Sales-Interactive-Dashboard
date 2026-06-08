@@ -61,4 +61,4 @@ This project demonstrates how Business Intelligence tools can be used to convert
 
 Add the dashboard screenshot below:
 
-![Amazon Sales Dashboard](Screenshot.png)
+![Amazon Sales Dashboard](Screenshot 2026-06-08 234741.png)
